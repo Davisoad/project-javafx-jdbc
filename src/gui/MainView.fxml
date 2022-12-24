@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Add/remove/change import instructions as needed -->
+
+<?import javafx.scene.layout.AnchorPane?>
+
+<!-- Change root element type as needed -->
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1">
+    
+</AnchorPane>
